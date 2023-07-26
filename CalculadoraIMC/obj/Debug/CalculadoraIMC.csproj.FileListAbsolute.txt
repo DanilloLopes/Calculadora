@@ -1,9 +1,0 @@
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\obj\Debug\CalculadoraIMC.csprojAssemblyReference.cache
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
-C:\Users\Aluno\Desktop\Danillo Lopes\CalculadoraIMC\obj\Debug\CalculadoraIMC.frmCalculadora.resources
