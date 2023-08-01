@@ -1,0 +1,41 @@
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.csprojAssemblyReference.cache
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.frmPrincipal.resources
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+D:\BRUNO\Desktop\BrunoManzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.csprojAssemblyReference.cache
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.frmPrincipal.resources
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+D:\BRUNO\Desktop\Bruno Manzoli\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.frmPrincipal.resources
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\1. Calculadora IMC\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe.config
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.exe
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\bin\Debug\CalculadoraIMC.pdb
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.frmPrincipal.resources
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.Properties.Resources.resources
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.exe
+C:\Users\Senai.CEPEAS21103952\Documents\Danillo Lopes\CalculadoraIMC\CalculadoraIMC\obj\Debug\CalculadoraIMC.pdb
